@@ -89,6 +89,7 @@ connection.query(query_location, (error, results, fields) => {
             }
         });
     }
+    // process.exit();
 });
 
 
